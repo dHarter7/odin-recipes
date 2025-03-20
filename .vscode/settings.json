@@ -1,0 +1,27 @@
+{
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.restoreViewState": false,
+    "workbench.editor.decorations.colors": false,
+    "workbench.editor.autoLockGroups": {
+        "terminalEditor": false,
+        "mainThreadWebview-simpleBrowser.view": false,
+        "mainThreadWebview-browserPreview": false
+    },
+    "workbench.editor.centeredLayoutAutoResize": false,
+    "workbench.editor.closeEmptyGroups": false,
+    "workbench.editor.customLabels.enabled": false,
+    "workbench.editor.decorations.badges": false,
+    "workbench.editor.dragToOpenWindow": false,
+    "workbench.editor.focusRecentEditorAfterClose": false,
+    "workbench.editor.historyBasedLanguageDetection": false,
+    "workbench.editor.languageDetection": false,
+    "workbench.editor.languageDetectionHints": {
+        "untitledEditors": false,
+        "notebookEditors": false
+    },
+    "workbench.editor.mouseBackForwardToNavigate": false,
+    "workbench.editor.showIcons": false,
+    "workbench.editor.splitOnDragAndDrop": false,
+    "workbench.editor.tabActionCloseVisibility": false,
+    "workbench.editor.tabActionUnpinVisibility": false
+}
